@@ -1,0 +1,10 @@
+Place Ai_data component/script in scene~
+
+Place waypoints, set connections somehow between nodes
+
+place agents, pathfind_agent has a public method; which sets pathfinder given the end destination.
+the end destination can be assigned in the inspector, to a pathfind agent
+or via script.
+
+NOTE: in future, create system to automatically connect neighbouring waypoints in a grid system!!!
+grid system spawner class required to set up levels.
